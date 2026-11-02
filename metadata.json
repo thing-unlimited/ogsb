@@ -1,0 +1,6 @@
+{
+  "name": "Ocean Grill & Seafood Buffet",
+  "description": "Official dining application for Ocean Grill & Seafood Buffet in Virginia Beach featuring real-time table reservations, digital buffet menus, Ocean Club loyalty rewards, verified guest reviews, and interactive location maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
