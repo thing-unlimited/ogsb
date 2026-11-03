@@ -25,10 +25,11 @@ export const RESTAURANT_INFO = {
   ],
   pricingNotes: "Includes unlimited fountain beverages on select dinners. Seniors (65+) receive 10% off. Children under 3 dine complimentary with adult purchase.",
   photos: {
-    storefront: "/public/images/ocean_grill_storefront.png",
-    sushi: "/public/images/ocean_volcano_sushi.png",
-    crabs: "/public/images/steamed_chesapeake_crabs.png",
-    fruits: "/public/images/fresh_tropical_fruits.png",
+    storefront: "/images/ocean_grill_storefront.png",
+    sushi: "/images/ocean_volcano_sushi.png",
+    crabs: "/images/steamed_chesapeake_crabs.png",
+    fruits: "/
+      images/fresh_tropical_fruits.png",
     backup: {
       storefront: "/public/assets/aistudio/file_00000000576c81f6be84830195f77811_ed054d81.png",
       sushi: "/public/assets/aistudio/file_000000008c8c81f695ed439c21006f1c_fb7e49cb.png",
